@@ -1,0 +1,126 @@
+body {
+	width: 100%;
+}
+.container{
+	width: 100%;
+}
+.inicio {
+	background:#454143 ;
+	text-align: center;
+	padding: 20px;
+}
+.menu {
+	font-family: sans-serif;
+	color:white;
+}
+.segundo {
+	background:#4F4F4F  ;
+	text-align: center;
+	padding: 50px
+}
+h1 {
+	font-family: sans-serif;
+	color:white;
+}
+p {
+	font-family: sans-serif;
+	color:white;
+}
+.tercero {
+	background:#4F4F4F  ;
+	text-align: center; 
+}
+.fot{
+	border-radius: 100px;
+}
+
+
+
+
+.footer{
+	margin-top:1em;
+	padding: 30px;
+}
+.footer li{
+	display:inline-block;
+	margin-left:7px;
+}
+.footer li:first-child{
+	margin-left:0;
+}
+.footer li a {
+	display:block;
+	background:#bdd1df;
+	padding:4px;
+	 border-radius:1em;
+	-webkit-border-radius:1em;
+	-moz-border-radius:1em;
+	-o-border-radius:1em;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.footer li a:hover{
+	background:#4A8FC0;
+}
+.footer li a i{
+	width:24px;
+	height:24px;
+	display:block;
+	
+}
+.footer li a i.facebook{
+	background-position:-1px -10px;
+}
+.footer li a i.twitter{
+	background-position:-29px -11px;
+}
+.footer li a i.inliked{
+	background-position:-61px -12px;
+}
+.footer li a i.mail{
+	background-position:-96px -12px;
+}
+.quinto {
+	background:#FFFFFF  ;
+	text-align: center; 
+}
+.texto{
+	font-family: sans-serif;
+	color:black;
+	border-top: 90%;
+}
+
+
+
+
+
+.botones{
+	text-align:center;
+	margin-top:3em;
+}
+.botones a{
+	 display:inline-block;
+    color:#fff;
+    font-size:1.2em;
+    text-transform:uppercase;
+    background:#00BFD3;
+    padding:18px 3em;
+    border-bottom:4px solid #4c376c;
+    border-radius:5px;
+   -webkit-border-radius:5px;
+   -moz-border-radius:5px;
+   -o-border-radius:5px;
+    -webkit-transition: all 0.3s ease;
+		-moz-transition: all 0.3s ease;
+		-o-transition: all 0.3s ease;
+		transition: all 0.3s ease;
+}
+.botones a:hover{
+	background:#4c376c;
+}
+.skill{
+	font-family: sans-serif;
+	color:black;
+}
